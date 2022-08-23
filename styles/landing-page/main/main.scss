@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap");
+
+.short-about > p {
+    position: absolute;
+    font-family: "Fira Code", monospace;
+    font-size: 18px;
+    color: white;
+    right: 1500px;
+    bottom: 700px;
+}
+
+.short-about > h1 {
+    position: absolute;
+    font-family: "Fira Code", monospace;
+    font-size: 62px;
+    color: #E5E9F0;
+    font-weight: normal;
+    right: 1110px;
+    bottom: 610px;
+}
+
+.short-about > h2 {
+    position: absolute;
+    font-family: "Fira Code", monospace;
+    font-size: 32px;
+    color: #4D5BCE;
+    font-weight: normal;
+    bottom: 570px;
+    right: 1230px;
+}
+
+.landing-page-github {
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.landing-page-github > p {
+    color: #607B96;
+}
+
+.landing-page-github > .p1 {
+    position: absolute;
+    bottom: 460px;
+    right: 1330px;
+}
+
+.landing-page-github > .p2 {
+    position: absolute;
+    bottom: 430px;
+    right: 1255px;
+}
+
+.sp1 {
+    color: #4D5BCE;
+}
+
+.sp2 {
+    color: #43D9AD;
+}
+
+.sp3 {
+    color: white;
+}
+
+.sp4 > a {
+    color: #E99287;
+    text-decoration: none;
+}
+
+.github {
+    position: absolute;
+    bottom: 395px;
+    right: 1130px;
+}
+
+.snake {
+    position: absolute;
+    right: 400px;
+    bottom: 350px;
+}
+
+.gradient {
+    position: absolute;
+    z-index: -1;
+    right: 100px;
+}
+
+.socials > p {
+    position: absolute;
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: #607B96;
+    bottom: 25px;
+    right: 2060px;
+}
+
+.vector2 {
+    position: absolute;
+    bottom: 60px;
+    width: 2200px;
+}
+
+.vector1_0 {
+    position: absolute;
+    bottom: 0px;
+    right: 2030px;
+    height: 60px;
+}
+
+.vector1_1 {
+    position: absolute;
+    bottom: 0px;
+    right: 1960px;
+    height: 60px;
+}
+
+.vector1_2 {
+    position: absolute;
+    bottom: 0px;
+    right: 1890px;
+    height: 60px;
+}
+
+.vector1_3 {
+    position: absolute;
+    bottom: 0px;
+    right: 240px;
+    height: 60px;
+}
+
+.twitter {
+    position: absolute;
+    bottom: 15px;
+    right: 1980px;
+    width: 30px;
+    height: 30px;
+}
+
+.facebook {
+    position: absolute;
+    bottom: 15px;
+    right: 1910px;
+    width: 30px;
+    height: 30px;
+}
+
+.githubIcon {
+    position: absolute;
+    bottom: 15px;
+    right: 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.socials > h3 {
+    position: absolute;
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: #607B96;
+    font-weight: normal;
+    right: 80px;
+    bottom: 20px;
+}
